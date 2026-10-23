@@ -51,7 +51,6 @@
   <tr>
     <th width="33%">사용자</th>
     <th width="33%">관리자</th>
-    <th width="33%">슈퍼 관리자</th>
   </tr>
   <tr>
     <td align="center">
@@ -62,11 +61,6 @@
     <td align="center">
       <a href="./assets/admin.webp">
         <img src="./assets/admin.webp" alt="관리자 실시간 주문 관리 화면" width="100%" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="./assets/super-admin.webp">
-        <img src="./assets/super-admin.webp" alt="슈퍼 관리자 서비스 대시보드" width="100%" />
       </a>
     </td>
   </tr>
@@ -113,7 +107,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge)
+![Emotion](https://img.shields.io/badge/Emotion-D26AC2?style=for-the-badge)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![SockJS](https://img.shields.io/badge/SockJS-333333?style=for-the-badge)
+![STOMP](https://img.shields.io/badge/STOMP-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### Backend
@@ -134,10 +134,10 @@
 
 ## 📦 저장소
 
-| 저장소 | 설명 | 주요 기술 |
-|---|---|---|
-| [KioSchool](https://github.com/KioSchool/KioSchool) | 손님 주문 화면, 주점 운영진 화면, 서비스 관리 화면을 제공하는 웹 프론트엔드 | React, TypeScript, Vite |
-| [KioSchool-API](https://github.com/KioSchool/KioSchool-API) | 인증, 주문, 주점, 테이블, 통계 및 실시간 통신을 처리하는 API 서버 | Kotlin, Spring Boot, PostgreSQL, Redis |
+| 저장소                                                      | 설명                                                                        | 주요 기술                              |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------- |
+| [KioSchool](https://github.com/KioSchool/KioSchool)         | 손님 주문 화면, 주점 운영진 화면, 서비스 관리 화면을 제공하는 웹 프론트엔드 | React, TypeScript, Vite                |
+| [KioSchool-API](https://github.com/KioSchool/KioSchool-API) | 인증, 주문, 주점, 테이블, 통계 및 실시간 통신을 처리하는 API 서버           | Kotlin, Spring Boot, PostgreSQL, Redis |
 
 ## 👥 함께 만드는 사람들
 
