@@ -33,7 +33,7 @@
 - 🍊 [서비스 소개](https://kio-school.com/info)
 - 💬 [문의하기](https://kio-school.com/contact)
 - 📸 [인스타그램](https://www.instagram.com/kioschool/)
-- 🎥 [서비스 영상](https://www.youtube.com/watch?v=4tZjnj48hBk)
+- 🎥 [서비스 영상](https://youtu.be/XrRBMvbqnNc)
 - 💻 [프론트엔드 저장소](https://github.com/KioSchool/KioSchool)
 - ⚙️ [API 저장소](https://github.com/KioSchool/KioSchool-API)
 
